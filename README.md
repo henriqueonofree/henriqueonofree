@@ -12,7 +12,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Iamh4mm3r)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/henriqueonofree)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henrique-onofre-38804b173/)
 
 </div>
@@ -447,9 +447,9 @@ Este perfil reúne projetos, laboratórios e estudos relacionados à Segurança 
 
 <div align="center">
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamh4mm3r\&show_icons=true\&theme=github_dark\&hide_border=true)
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueonofree\&show_icons=true\&theme=github_dark\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamh4mm3r\&layout=compact\&theme=github_dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueonofree\&layout=compact\&theme=github_dark\&hide_border=true)
 
 </div>
 
@@ -481,6 +481,6 @@ Tenho interesse em trocar experiências, participar de projetos e conhecer novas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Onofre-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henrique-onofre-38804b173/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Iamh4mm3r-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Iamh4mm3r)
+[![GitHub](https://img.shields.io/badge/GitHub-Iamh4mm3r-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/henriqueonofree)
 
 </div>
