@@ -293,47 +293,7 @@ Laboratório pessoal voltado para estudos de **SOC, SIEM, monitoramento e respos
 * Simular incidentes
 * Documentar investigações
 
-**Stack:** `Wazuh` `Linux` `Windows` `Docker` `Networking`
-
-➡️ **[Ver projeto](#)**
-
----
-
-## 🔎 Detection Engineering Lab
-
-Laboratório dedicado à criação e teste de regras de detecção.
-
-### Cenários
-
-* Brute Force
-* PowerShell
-* Suspicious Process
-* Malware
-* Network Anomalies
-* Authentication Attacks
-
-**Stack:** `Wazuh` `MITRE ATT&CK` `Windows` `Linux`
-
-➡️ **[Ver projeto](#)**
-
----
-
-## 🎣 Phishing Investigation Lab
-
-Projeto voltado para investigação de emails e indicadores relacionados a phishing.
-
-### Análises
-
-* Headers
-* URLs
-* Domains
-* IPs
-* Hashes
-* Attachments
-* IOCs
-* Threat Intelligence
-
-➡️ **[Ver projeto](#)**
+➡️ **[Ver projeto](#)** (Em andamento)
 
 ---
 
@@ -362,9 +322,7 @@ Projetos de automação para reduzir tarefas repetitivas durante atividades de s
         Report
 ```
 
-**Tecnologias:** `Python` `APIs` `JSON` `Bash`
-
-➡️ **[Ver projeto](#)**
+**Tecnologias:** `Python` `APIs` `Bash` `Shell Script`
 
 ---
 
